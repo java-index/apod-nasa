@@ -27,7 +27,7 @@ msgstr "Где получить АПИ ключ"
 msgid "Downloaded image"
 msgstr "Загруженное изображение"
 
-msgid "Enter API key here'"
+msgid "Enter API key here"
 msgstr "Введите ключ АПИ здесь"
 
 msgid "Error receiving data from APOD API"
